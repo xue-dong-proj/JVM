@@ -1,0 +1,5 @@
+Compiled from "Demo.java"
+public class nuc.edu.java1.Demo {
+  public nuc.edu.java1.Demo();
+  public int add();
+}
